@@ -1,17 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=header&fontSize=0" width="100%"/>
-
-```
- ██████╗  ██████╗  ██████╗  ██████╗ ███████╗
- ██╔══██╗██╔═══██╗██╔════╝ ██╔════╝ ██╔════╝
- ██████╔╝██║   ██║██║  ███╗╚█████╗  █████╗  
- ██╔══██╗██║   ██║██║   ██║ ╚═══██╗ ██╔══╝  
- ██║  ██║╚██████╔╝╚██████╔╝██████╔╝ ███████╗
- ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝  ╚══════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=FF2D78&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%26+Backend+Engineer;BCA+%2727+%40+Bennett+University;Building+EdTech+%26+AI-Powered+Platforms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=FF2D78&center=true&vCenter=true&width=500&lines=Backend+Developer;AI+%26+Systems+Engineer;BCA+%2727+%40+Bennett+University;Building+EdTech+%26+AI-Powered+Platforms" alt="Typing SVG" />
 
 <br/>
 
@@ -34,7 +23,7 @@ nikita = {
     "university"  : "Bennett University, Greater Noida — BCA '27",
     "building"    : ["EdTech platforms", "AI agents", "Backend systems"],
     "currently"   : "Backend dev roadmap · DSA · System Design",
-    "ask_me_about": ["Python", "React", "FastAPI", "AI pipelines"],
+    "ask_me_about": ["Python", "FastAPI", "AI pipelines", "REST APIs"],
 }
 ```
 
@@ -89,37 +78,3 @@ nikita = {
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-ffb3d1?style=for-the-badge&logoColor=1a1a2e)
 
 </div>
-
----
-
-<div align="center">
-
-### ✦ projects
-
-</div>
-
-| project | what it does | stack |
-|---|---|---|
-| [**LUMINA-study-AI**](https://github.com/nikitaasainii/LUMINA-study-AI) | AI academic support agent with ReAct pipeline | Python · Streamlit · Groq · Llama 3.3 |
-| [**GameED**](https://github.com/nikitaasainii/GameED) | Gamified learning platform for children | React · Next.js · Supabase |
-| [**talent-scouting-agent**](https://github.com/nikitaasainii/talent-scouting-agent) | Automated talent discovery agent | Python |
-| [**CLI-task-manager**](https://github.com/nikitaasainii/CLI-task-manager) | Command line task tracker with JSON persistence | Python |
-| [**DNS-SINKHOLE**](https://github.com/nikitaasainii/DNS-SINKHOLE) | Network-level ad and malware blocker | Python |
-| [**RAG_IDS_IMD**](https://github.com/nikitaasainii/RAG_IDS_IMD) | AI-based Intrusion Detection System using RAG + NSL-KDD | Python · ML |
-
----
-
-<div align="center">
-
-### ✦ github stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=nikitaasainii&show_icons=true&theme=radical&bg_color=0d0d0d&border_color=ff2d78&icon_color=ff2d78&title_color=ffb3d1&text_color=ffffff&hide_border=false" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikitaasainii&layout=compact&theme=radical&bg_color=0d0d0d&border_color=ff2d78&title_color=ffb3d1&text_color=ffffff" height="150"/>
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=nikitaasainii&color=ff2d78&style=flat-square&label=profile+views)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=80&section=footer" width="100%"/>
