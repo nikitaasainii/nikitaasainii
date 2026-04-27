@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=FF2D78&center=true&vCenter=true&width=500&lines=Backend+Developer;BCA+%2727+%40+Bennett+University;Building+EdTech+%26+AI-Powered+Platforms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=FF2D78&center=true&vCenter=true&width=500&lines=Backend+Developer;AI+%26+Systems+Engineer;BCA+%2727+%40+Bennett+University;Building+EdTech+%26+AI-Powered+Platforms" alt="Typing SVG" />
 
 <br/>
 
@@ -16,16 +16,18 @@
 
 ### ✦ about
 
-</div>
+BCA '27 · Bennett University, Greater Noida
 
-```python
-nikita = {
-    "university"  : "Bennett University, Greater Noida — BCA '27",
-    "building"    : ["EdTech platforms", "AI agents", "Backend systems"],
-    "currently"   : "Backend dev roadmap · DSA · System Design",
-    "ask_me_about": ["Python", "FastAPI", "AI pipelines", "REST APIs"],
-}
-```
+Building EdTech platforms · AI agents · Backend systems
+
+Currently on · Backend dev roadmap · DSA · System Design
+
+![](https://img.shields.io/badge/Python-ff2d78?style=flat-square&labelColor=1a1a2e)
+![](https://img.shields.io/badge/FastAPI-ffb3d1?style=flat-square&labelColor=1a1a2e)
+![](https://img.shields.io/badge/AI_Pipelines-ff2d78?style=flat-square&labelColor=1a1a2e)
+![](https://img.shields.io/badge/REST_APIs-ffb3d1?style=flat-square&labelColor=1a1a2e)
+
+</div>
 
 ---
 
